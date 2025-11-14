@@ -11,8 +11,9 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 |You must only use 1 Pokemon for all fights and encounters except where noted in game specific rules.|
 |----------------------------------------------------------------------------------------------------|
 |<div align="center">Permadeath: If your primary Pokemon faints, the game is over.</div>                                       |
+|<div align="center">You may not heal HP, Status, or PP outside of battle using items.</div>  |
 |<div align="center">You may select as many "favorites" as equal to the generation of game you are playing i.e. 3 for Emerald, 4 for Heartgold, 9 for NATDEX, etc. Favorites must be under 600 BST for all formats besides NATDEX; NATDEX may include 600 BST. Favorites must be selected prior to the start of the attempt. There are no rules against legendaries.</div>  |
-|<div align="center">Pokemon may only receive EXP from a wild once prior to the early game "lock in point" or from required game progression encounters. Receiving EXP from a wild after the "Lock in" point should be avoided at all costs. Receiving EXP from a second wild Pokemon prior to the "Lock in" point disqualifies it from being ran and must be deposited ASAP.</div>  |
+|<div align="center">Pokemon may only receive EXP from a wild once prior to the early game "lock in point" or from required game progression encounters. Receiving EXP from a wild after the "Lock in" point should be avoided at all costs. Receiving EXP from a second wild Pokemon prior to the "Lock in" point disqualifies it from being ran and must be deposited ASAP. All shinies are free catches or kills and do not count towards EXP or catch rules.</div>  |
 |<div align="center">You may not re-fight trainers at any point using the VS Seeker or other means.</div>                        |
 |<div align="center">You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit. Revisiting with your Safari/Bug-Catching Pivot is ok.</div>  |
 |<div align="center">You may not use healing stations in Dungeons unless game progress requires.</div>                           |
@@ -32,33 +33,27 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 |<div align="center">You may only hold consumable items, everstone and items used for repelling or escaping wild encounters.</div>  |
 |<div align="center">X Items are not allowed on the Elite 4 or champion. Other battle items suchs as dire hit and guard spec are allowed.</div>  |
 |<div align="center">Flutes may only be used for game progression and scouting Pokemon.</div>  |
+|<div align="center">You may use Rare Candy, PP UP, or PP MAX.</div>  |
 
 ## Abilities:
 <div>
 <li>Pure Power and huge power are allowed so long as you NEVER use a physical attacking move.</li>
 <li>Pickup is allowed only if you do not keep pickup items.</li>
 <li>Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.</li>
+    Magic guard?
 </div> 
 
-## Banned Moves:
+## Moves:
 
-No HM Moves on your primary Pokemon. You may use HM moves during double battles with your second Pokemon.
+You may not teach or use HM Moves for your primary Pokemon. You may use HM moves during double battles with your second Pokemon.
 
-`Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)** NOTE: Moves that damage heal like Giga Drain are allowed
+`Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)** NOTE: Moves that heal by doing damage like Giga Drain are allowed. Pain Split is banned.
 
-**Note:** Both `Spore & Assist` are banned
+Spore and assist are banned. Additionally, OHKO and sleep moves are banned from being used in conjunction with the No Guard ability.
 
-**NOTE:** You are allowed to use a banned move either through **Transform, metronome or after copying it using Mimic or Mirror Move.**
+You are allowed to use a banned move through **Transform, metronome or after copying it using Mimic or Mirror Move.**
 
-Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone Pivot has been made (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.
-
-## Other General Rules
-
-No healing outside of battle: PP, Health, or Status. You may use Rare Candy, PP UP, or PP MAX.
-
-You **DO NOT** have to let your Pokemon Evolve
-
-All shinies are free catches or kills.
+Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone/Bug Catching Pivot has been made (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.
 
 # Settings
 
@@ -219,7 +214,7 @@ Utilize standard Firered Murphmon Setup Guidleines with [this settings string](h
 # FAQ
 
 -shell armor allowed
--
+-You **DO NOT** have to let your Pokemon Evolve
 
 --------------------------------------------------
 
