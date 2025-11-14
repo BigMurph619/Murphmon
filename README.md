@@ -10,7 +10,7 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 
 |You must only use 1 Pokemon for all fights and encounters except where noted in game specific rules.|
 |----------------------------------------------------------------------------------------------------|
-|Permadeath: If your primary Pokemon faints, the game is over.                                       |
+|<div align="center">Permadeath: If your primary Pokemon faints, the game is over.</div>                                       |
 |You may only purchase Poke Balls (of any type) or repels (of any type) from shops except where noted in game specific rules.|
 |You can only use items that you receive from the ground, NPCs, and legally obtained Pokemon.        |
 |You may select as many "favorites" as equal to the generation of game you are playing i.e. 3 for Emerald, 4 for Heartgold, 9 for NATDEX, etc. Favorites must be under 600 BST for all formats besides NATDEX; NATDEX may include 600 BST. There are no rules against legendaries.|
