@@ -35,9 +35,9 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 
 ## Abilities:
 <div align="center">
-Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. P
-ickup is allowed only if you do not keep pickup items. 
-Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
+    <li>Pure Power and huge power are allowed so long as you NEVER use a physical attacking move.</li>
+    <li>Pickup is allowed only if you do not keep pickup items.</li>
+    <li>Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.</li>
 </div> 
 
 ## Banned Moves:
