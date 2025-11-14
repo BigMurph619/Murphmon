@@ -1,36 +1,22 @@
 # Murphmon
-# Firered Murphmon Rules
 
-IMPORTANT: Monomon and Murphmon are **UNOFFICIAL** ways of playing an IronMON-inspired challenge. All credits for the core idea of the challenge go to iateyourpie. This ruleset is used primarily for open tournament play hosted by BigMurph619 and moderators from the MurphVerse discord.
-
-### [Core Game Rules](#core-games-rules) | [Settings](#settings) | [FRLG Specifics Rules](#specific-game-rules) | [NATDEX](#natdex) | [DuoMon](#duomon) | [Credits](#credits)
+### ABOUT | [Core Game Rules](#core-games-rules) | [Settings and Setup](#settings) | [FIRERED](#specific-game-rules) | EMERALD | HEARTGOLD | [Credits](#credits)
 
 # Core Game Rules
 
-You must only use 1 Pokemon for all fights and encounters **except double battles unless otherwise denoted.**  
-I.e. [**“Brock Buddy” rule.**](#specific-game-rules)
-
-Permadeath: If your primary Pokemon faints, the game is over.
-
-No Shopping: **Except for any type of Pokeball or Repel.**
-
-You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC, no use of stores.
-
-Select 3 “Favorites” prior to each run. These Pokemon are subject to the 599 BST or under rule.
-
-Stolen Items: You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc.  
-**Stealing them from a trainer battle is fine.**
-
-You may not intentionally kill a wild Pokemon for EXP unless game progression requires you to do so, depicted in a specific game rule [(refer to rule 3)](#specific-game-rules) or it is a Shiny Pokemon.
-
-No Redos: You may not re-fight trainers at any point using the VS Seeker or other means. You may not abuse respawning items by picking them up more than once
-
-No HM Moves on your primary Pokemon. You may use HM moves during double battles with your second Pokemon (FRLG).
-
-You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit.
-You may not use healing stations in Dungeons.
-You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms including Dojo, clear needed game progress elsewhere).
-**You may return to a Dungeon once with your Safari Pivot.**
+|You must only use 1 Pokemon for all fights and encounters except where noted in game specific rules.|
+|----------------------------------------------------------------------------------------------------|
+|Permadeath: If your primary Pokemon faints, the game is over.|
+|You may only purchase Poke Balls (of any type) or repels (of any type) from shops except where noted in game specific rules.|
+|You can only use items that you receive from the ground, NPCs, and legally obtained Pokemon.|
+|You may select as many "favorites" as equal to the generation of game you are playing i.e. 3 for Emerald, 4 for Heartgold, 9 for NATDEX, etc. Favorites must be under 600 BST for all formats besides NATDEX; NATDEX may include 600 BST. There are no rules against legendaries.|
+|Stolen Items: You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc. Stealing them from a trainer battle is fine.|
+|Pokemon may only receive EXP from a wild once prior to the early game "lock in point" or from required game progression encounters. Receiving EXP from a wild after the "Lock in" point should be avoided at all costs. Receiving EXP from a second wild Pokemon prior to the "Lock in" point disqualifies it from being ran and must be deposited ASAP.|
+|You may not re-fight trainers at any point using the VS Seeker or other means.|
+|No HM Moves on your primary Pokemon. You may use HM moves during double battles with your second Pokemon.|
+|You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit. Revisiting with your Safari/Bug-Catching Pivot is ok.|
+|You may not use healing stations in Dungeons unless game progress requires.|
+|You must full clear all Gyms and Dojos once entering.|
 
 ---
 
