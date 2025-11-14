@@ -1,6 +1,6 @@
 # Murphmon
 
-### ABOUT | [Core Game Rules](#core-games-rules) | [Settings and Setup](#settings) | [FIRERED](#specific-game-rules) | EMERALD | HEARTGOLD | [Credits](#credits)
+### [ABOUT](What-is-Murphmon? | [Core Game Rules](#core-games-rules) | [Items, Abilities, and Moves](#Items,-Abilities,-and-Moves) | [Settings and Setup](#settings) | [FIRERED](#specific-game-rules) | EMERALD | HEARTGOLD | [Credits](#credits)
 
 # What is Murphmon?
 
@@ -25,6 +25,58 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 </div>
 
 ---
+
+# Items, Abilities, and Moves 
+
+## Banned items:
+
+Any non-consumable held items except for everstone and items for repelling or escaping wild encounters. Reviving items. X Items are not allowed on the Elite 4 or Champion.
+
+**NOTE:** You may not use status healing flutes except the poke flute for waking Snorlax and scouting wild Pokemon.
+
+## Banned Abilities:
+
+`Battle Armor / Shell Armor`.
+
+**NOTE:** Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pickup is allowed only if you do not keep pickup items. Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
+
+## Banned Moves:
+
+`Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)** NOTE: Moves that damage heal like Giga Drain are allowed
+
+**Note:** Both `Spore & Assist` are banned
+
+**NOTE:** You are allowed to use a banned move either through **Transform, metronome or after copying it using Mimic or Mirror Move.**
+
+Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone Pivot has been made (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.
+
+## Other General Rules
+
+No healing outside of battle: PP, Health, or Status. You may use Rare Candy, PP UP, or PP MAX.
+
+You **DO NOT** have to let your Pokemon Evolve
+
+All shinies are free catches or kills.
+
+# Settings
+
+[Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
+
+Firered Murphmon uses its own patch, RNQS file, and Randomizer. Please note that using the Super Kaizo IronMON settings will NOT work despite heavily inspiring this game mode.
+
+The Murphmon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
+
+Download and apply Firered Murphmon/Monomon patch to your vanilla, legally obtained Firered ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/afef012e357e00a26157fdd67df5a65941b59cb7/1.GameModes/FireRed-Murphmon/Firered%20Murphmon%20and%20Monomon%20Patch.ips)
+
+RNQS download [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/afef012e357e00a26157fdd67df5a65941b59cb7/1.GameModes/FireRed-Murphmon/FRLG%20Murphmon%20Settings%20String.rnqs)
+
+You are highly encouraged to use the linked randomizer as others have not worked in the past. [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
+
+[Java](https://www.java.com/en/download/manual.jsp)
+
+# Specific Game Rules
+
+## FIRERED
 
 > Note: All caves are dungeons except on Sevii Islands.
 
@@ -53,55 +105,6 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 
 >Forests are NOT dungeons
 
----
-
-# Banned items:
-
-Any non-consumable held items except for everstone and items for repelling or escaping wild encounters. Reviving items. X Items are not allowed on the Elite 4 or Champion.
-
-**NOTE:** You may not use status healing flutes except the poke flute for waking Snorlax and scouting wild Pokemon.
-
-# Banned Abilities:
-
-`Battle Armor / Shell Armor`.
-
-**NOTE:** Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pickup is allowed only if you do not keep pickup items. Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
-
-# Banned Moves:
-
-`Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)** NOTE: Moves that damage heal like Giga Drain are allowed
-
-**Note:** Both `Spore & Assist` are banned
-
-**NOTE:** You are allowed to use a banned move either through **Transform, metronome or after copying it using Mimic or Mirror Move.**
-
-Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone Pivot has been made (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.
-
-# Other General Rules
-
-No healing outside of battle: PP, Health, or Status. You may use Rare Candy, PP UP, or PP MAX.
-
-You **DO NOT** have to let your Pokemon Evolve
-
-All shinies are free catches or kills.
-
-# Settings
-
-[Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
-
-Firered Murphmon uses its own patch, RNQS file, and Randomizer. Please note that using the Super Kaizo IronMON settings will NOT work despite heavily inspiring this game mode.
-
-The Murphmon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
-
-Download and apply Firered Murphmon/Monomon patch to your vanilla, legally obtained Firered ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/afef012e357e00a26157fdd67df5a65941b59cb7/1.GameModes/FireRed-Murphmon/Firered%20Murphmon%20and%20Monomon%20Patch.ips)
-
-RNQS download [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/afef012e357e00a26157fdd67df5a65941b59cb7/1.GameModes/FireRed-Murphmon/FRLG%20Murphmon%20Settings%20String.rnqs)
-
-You are highly encouraged to use the linked randomizer as others have not worked in the past. [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
-
-[Java](https://www.java.com/en/download/manual.jsp)
-
-# Specific Game Rules
 
 1. You may pick any mon you want in the lab that is 599 BST or lower. You may keep its held item. **No legendaries allowed.** If you evolve into a Pokemon that is over 599 BST, you may use that Pokemon so long as it aligns with Ability rules.
 
