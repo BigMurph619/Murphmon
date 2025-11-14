@@ -9,7 +9,6 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 # Core Game Rules
 
 <div align="center">
-
 |You must only use 1 Pokemon for all fights and encounters except where noted in game specific rules.|
 |-----------------------------------------------------------|
 |Permadeath: If your primary Pokemon faints, the game is over.|
@@ -23,7 +22,6 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 |You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit. Revisiting with your Safari/Bug-Catching Pivot is ok.|
 |You may not use healing stations in Dungeons unless game progress requires.|
 |You must full clear all Gyms and Dojos once entering.|
-
 </div>
 
 ---
