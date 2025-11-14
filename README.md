@@ -8,21 +8,20 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 
 # Core Game Rules
 
-<div align="center">
-
-<li>|You must only use 1 Pokemon for all fights and encounters except where noted in game specific rules.|</li>
-<li>|Permadeath: If your primary Pokemon faints, the game is over.|</li>
+|You must only use 1 Pokemon for all fights and encounters except where noted in game specific rules.|
+|----------------------------------------------------------------------------------------------------|
+|Permadeath: If your primary Pokemon faints, the game is over.                                       |
 |You may only purchase Poke Balls (of any type) or repels (of any type) from shops except where noted in game specific rules.|
-|You can only use items that you receive from the ground, NPCs, and legally obtained Pokemon.|
+|You can only use items that you receive from the ground, NPCs, and legally obtained Pokemon.        |
 |You may select as many "favorites" as equal to the generation of game you are playing i.e. 3 for Emerald, 4 for Heartgold, 9 for NATDEX, etc. Favorites must be under 600 BST for all formats besides NATDEX; NATDEX may include 600 BST. There are no rules against legendaries.|
 |Stolen Items: You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc. Stealing them from a trainer battle is fine.|
 |Pokemon may only receive EXP from a wild once prior to the early game "lock in point" or from required game progression encounters. Receiving EXP from a wild after the "Lock in" point should be avoided at all costs. Receiving EXP from a second wild Pokemon prior to the "Lock in" point disqualifies it from being ran and must be deposited ASAP.|
-|You may not re-fight trainers at any point using the VS Seeker or other means.|
+|You may not re-fight trainers at any point using the VS Seeker or other means.                      |
 |No HM Moves on your primary Pokemon. You may use HM moves during double battles with your second Pokemon.|
 |You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit. Revisiting with your Safari/Bug-Catching Pivot is ok.|
-|You may not use healing stations in Dungeons unless game progress requires.|
-|You must full clear all Gyms and Dojos once entering.|
-</div>
+|You may not use healing stations in Dungeons unless game progress requires.                         |
+|You must full clear all Gyms and Dojos once entering.                                               |
+
 
 ---
 
