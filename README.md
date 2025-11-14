@@ -2,6 +2,10 @@
 
 ### ABOUT | [Core Game Rules](#core-games-rules) | [Settings and Setup](#settings) | [FIRERED](#specific-game-rules) | EMERALD | HEARTGOLD | [Credits](#credits)
 
+# What is Murphmon?
+
+Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It aims to be a bit easier and faster while adding more decision making opportunities to the game. The game can be played 10 different ways, all of which remain officially unbeaten. Many rules and settings are mindfully adapted for tournament play and the game is intended to be challenging but beatable.
+
 # Core Game Rules
 
 |You must only use 1 Pokemon for all fights and encounters except where noted in game specific rules.|
