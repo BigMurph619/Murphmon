@@ -1,6 +1,6 @@
 # Murphmon
 
-### [ABOUT](What-is-Murphmon?) | [Core Game Rules](#core-games-rules) | [Items, Abilities, and Moves](#Items,-Abilities,-and-Moves) | [Settings and Setup](#settings) | [FIRERED](#specific-game-rules) | EMERALD | HEARTGOLD | [Credits](#credits)
+### [ABOUT](What-is-Murphmon?) | [Core Game Rules](#core-games-rules) | [Items, Abilities, and Moves](#Items,-Abilities,-and-Moves) | [Settings and Setup](#settings) | [Game Specific Rules](#specific-game-rules) | FAQ | [Credits](#credits) |
 
 # What is Murphmon?
 
@@ -215,6 +215,11 @@ DuoMon is the Doubles Battles take on this challenge and can be done with a NATD
 ### MurphMon DuoMon Settings and Setup
 
 Utilize standard Firered Murphmon Setup Guidleines with [this settings string](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/Firered%20Murphmon%20Duomon.rnqs)
+
+# FAQ
+
+-shell armor allowed
+-
 
 --------------------------------------------------
 
