@@ -34,7 +34,7 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 |<div align="center">Flutes may only be used for game progression and scouting Pokemon.</div>  |
 
 ## Abilities:
-|<div align="center">
+<div align="center">
 Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. P
 ickup is allowed only if you do not keep pickup items. 
 Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
@@ -42,7 +42,7 @@ Pokemon 420 BST or Lower are exempt from all banned abilities and may be used fr
 
 ## Banned Moves:
 
-|<div align="center">No HM Moves on your primary Pokemon. You may use HM moves during double battles with your second Pokemon.</div>  |
+No HM Moves on your primary Pokemon. You may use HM moves during double battles with your second Pokemon.
 
 `Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)** NOTE: Moves that damage heal like Giga Drain are allowed
 
