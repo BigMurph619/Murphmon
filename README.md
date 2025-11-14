@@ -11,13 +11,10 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 |You must only use 1 Pokemon for all fights and encounters except where noted in game specific rules.|
 |----------------------------------------------------------------------------------------------------|
 |<div align="center">Permadeath: If your primary Pokemon faints, the game is over.</div>                                       |
-|<div align="center">You may only purchase Poke Balls (of any type) or repels (of any type) from shops except where noted in game specific rules.</div>  |
-|<div align="center">You can only use items that you receive from the ground, NPCs, and legally obtained Pokemon.</div>          |
-|<div align="center">You may select as many "favorites" as equal to the generation of game you are playing i.e. 3 for Emerald, 4 for Heartgold, 9 for NATDEX, etc. Favorites must be under 600 BST for all formats besides NATDEX; NATDEX may include 600 BST. There are no rules against legendaries.</div>  |
-|<div align="center">Stolen Items: You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc. Stealing them from a trainer battle is fine.</div>  |
+|<div align="center">You may select as many "favorites" as equal to the generation of game you are playing i.e. 3 for Emerald, 4 for Heartgold, 9 for NATDEX, etc. Favorites must be under 600 BST for all formats besides NATDEX; NATDEX may include 600 BST. Favorites must be selected prior to the start of the attempt. There are no rules against legendaries.</div>  |
+
 |<div align="center">Pokemon may only receive EXP from a wild once prior to the early game "lock in point" or from required game progression encounters. Receiving EXP from a wild after the "Lock in" point should be avoided at all costs. Receiving EXP from a second wild Pokemon prior to the "Lock in" point disqualifies it from being ran and must be deposited ASAP.</div>  |
 |<div align="center">You may not re-fight trainers at any point using the VS Seeker or other means.</div>                        |
-|<div align="center">No HM Moves on your primary Pokemon. You may use HM moves during double battles with your second Pokemon.</div>  |
 |<div align="center">You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit. Revisiting with your Safari/Bug-Catching Pivot is ok.</div>  |
 |<div align="center">You may not use healing stations in Dungeons unless game progress requires.</div>                           |
 |<div align="center">You must full clear all Gyms and Dojos once entering.</div>                                                 |
@@ -27,19 +24,27 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 
 # Items, Abilities, and Moves 
 
-## Banned items:
+## Items:
 
-Any non-consumable held items except for everstone and items for repelling or escaping wild encounters. Reviving items. X Items are not allowed on the Elite 4 or Champion.
+You may only purchase Poke Balls (of any type) or repels (of any type) from shops except where noted in game specific rules.
 
-**NOTE:** You may not use status healing flutes except the poke flute for waking Snorlax and scouting wild Pokemon.
+You can only use items that you receive from the ground, NPCs, and legally obtained Pokemon.
 
-## Banned Abilities:
+You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc. Stealing them from a trainer battle is fine.
 
-`Battle Armor / Shell Armor`.
+You may only hold consumable items, everstone and items used for repelling or escaping wild encounters. 
 
-**NOTE:** Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pickup is allowed only if you do not keep pickup items. Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
+X Items are not allowed on the Elite 4 or champion. Other battle items suchs as dire hit and guard spec are allowed.
+
+Flutes may only be used for game progression and scouting Pokemon.
+
+## Abilities:
+
+Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pickup is allowed only if you do not keep pickup items. Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
 
 ## Banned Moves:
+
+|<div align="center">No HM Moves on your primary Pokemon. You may use HM moves during double battles with your second Pokemon.</div>  |
 
 `Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)** NOTE: Moves that damage heal like Giga Drain are allowed
 
