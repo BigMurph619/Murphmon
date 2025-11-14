@@ -1,6 +1,6 @@
 # Murphmon
 
-### [ABOUT](What-is-Murphmon? | [Core Game Rules](#core-games-rules) | [Items, Abilities, and Moves](#Items,-Abilities,-and-Moves) | [Settings and Setup](#settings) | [FIRERED](#specific-game-rules) | EMERALD | HEARTGOLD | [Credits](#credits)
+### [ABOUT](What-is-Murphmon?) | [Core Game Rules](#core-games-rules) | [Items, Abilities, and Moves](#Items,-Abilities,-and-Moves) | [Settings and Setup](#settings) | [FIRERED](#specific-game-rules) | EMERALD | HEARTGOLD | [Credits](#credits)
 
 # What is Murphmon?
 
