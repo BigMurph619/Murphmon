@@ -34,8 +34,11 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 |<div align="center">Flutes may only be used for game progression and scouting Pokemon.</div>  |
 
 ## Abilities:
-
-Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pickup is allowed only if you do not keep pickup items. Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
+|<div align="center">
+Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. P
+ickup is allowed only if you do not keep pickup items. 
+Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
+</div> 
 
 ## Banned Moves:
 
