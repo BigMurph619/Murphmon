@@ -26,6 +26,7 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 ## Items:
 
 |<div align="center">You may only purchase Poke Balls (of any type) or repels (of any type) from shops except where noted in game specific rules.</div>  |
+|-|
 |<div align="center">You can only use items that you receive from the ground, NPCs, and legally obtained Pokemon.</div>  |
 |<div align="center">You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc. Stealing them from a trainer battle is fine.</div>  |
 |<div align="center">You may only hold consumable items, everstone and items used for repelling or escaping wild encounters.</div>  |
