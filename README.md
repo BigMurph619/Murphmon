@@ -8,9 +8,10 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 
 # Core Game Rules
 
-<div align="center">
+
 |You must only use 1 Pokemon for all fights and encounters except where noted in game specific rules.|
 |-----------------------------------------------------------|
+<div align="center">
 |Permadeath: If your primary Pokemon faints, the game is over.|
 |You may only purchase Poke Balls (of any type) or repels (of any type) from shops except where noted in game specific rules.|
 |You can only use items that you receive from the ground, NPCs, and legally obtained Pokemon.|
