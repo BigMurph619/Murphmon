@@ -214,6 +214,8 @@ Utilize standard Firered Murphmon Setup Guidleines with [this settings string](h
 -shell armor allowed
 -You **DO NOT** have to let your Pokemon Evolve
 
+Heartgold - note no mahogoney town 
+
 --------------------------------------------------
 
 # Credits/Useful Links
