@@ -41,6 +41,8 @@
 |-|
 |<div align="center">Pickup is allowed only if you do not keep pickup items.</div>  |
 |<div align="center">Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.</div>  |
+|<div align="center">Compoundeyes may not be used in conjunction with Dark Void.</div>  |
+|<div align="center">No guard may not be used in conjunction with ANY sleep move or OHKO move.</div>  |
 |<div align="center">Magic guard?</div>  |
 
 
@@ -87,7 +89,7 @@
 
 [Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
 
-Murphmon uses its own patch, RNQS file, and specific randomizer versions.
+ALL versions of Murphmon use their own patch, RNQS file, and specific randomizer versions. Refer to the link above for setup of Murphmon.
 
 The Murphmon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
 
@@ -114,11 +116,14 @@ DuoMon is the "All-Doubles Battles" take on this challenge. It is playable on Fi
   </ul>
 </details>
 
-|Settings changes include the following|
-|-|
-|Standardize EXP Curves to: Medium Slow|
-|Trainer Pokémon: Double Battle Mode (enabled)|
-|Additional Pokémon for: Important Trainers +1, Regular Trainers +1, (Keep Boss Trainers +3)|
+<details>
+  <summary>Rule Changes</summary>
+  <ul>
+    <li>You may catch up to 5 unique Pokemon as early game pivot options as opposed to 3.</li>
+    <li>Trainer Pokémon: Double Battle Mode (enabled)</li>
+    <li>Additional Pokémon for: Important Trainers +1, Regular Trainers +1, (Keep Boss Trainers +3)</li>
+  </ul>
+</details>
 
 ## DuoMon Rules
 
