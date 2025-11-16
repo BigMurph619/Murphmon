@@ -37,11 +37,11 @@
 
 ## Abilities:
 
-|Pure Power and huge power are allowed so long as you NEVER use a physical attacking move.|
-|-|
-|<div align="center">Pickup is allowed only if you do not keep pickup items.</div>  |
-|<div align="center">Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.</div>  |
-|<div align="center">Magic guard?</div>  |
+    |Pure Power and huge power are allowed so long as you NEVER use a physical attacking move.|
+    |-|
+    |<div align="center">Pickup is allowed only if you do not keep pickup items.</div>  |
+    |<div align="center">Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.</div>  |
+    |<div align="center">Magic guard?</div>  |
 
 
 ## Moves:
