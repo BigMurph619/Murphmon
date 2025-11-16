@@ -1,6 +1,6 @@
 # Murphmon
 
-### [Core Game Rules](#core-games-rules) | [Items, Abilities, and Moves](#Items,-Abilities,-and-Moves) | [Settings and Setup](#settings) | [Game Specific Rules](#specific-game-rules) | [FAQ](#FAQ) | [Credits](#credits) |
+### [Core Game Rules](#core-games-rules) | [Items, Abilities, and Moves](#Items,-Abilities,-and-Moves) | [Settings and Setup](#settings) | [Game Specific Rules](#Game-Specific-Rules) | [FAQ](#FAQ) | [Credits](#credits) |
 
 # What is Murphmon?
 
