@@ -55,7 +55,7 @@
 |<div align="center">You are allowed to use a banned move through **Transform, metronome or after copying it using Mimic or Mirror Move.**</div>  |
 |<div align="center">Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone/Bug Catching Pivot has been made (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.</div>  |
 |<div align="center">All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. </div>  |
-|<div align="center">Sketch - You may ONLY use Sketch in a trainer battle. Sketching on a wild Pokemon is no longer allowed. You may only relearn Sketch once from the move relearner. You may use Sketch multiple times if you receive the move in any other capacity. </div>  |
+|<div align="center">Sketch - You may ONLY use Sketch in a trainer battle. Sketching on a wild Pokemon is no longer allowed. You may only relearn Sketch once from the move relearner. You may use Sketch multiple times if you receive the move in any other capacity.</div>  |
 
 ---
 
@@ -63,29 +63,29 @@
 
 |Game Start|
 |-|
-|In the "Lab" you may chose your starter and use any items and moves available to you. The "Lab" is defined as the entire game through the first rival fight. After rival fight, standard rules apply.|
-|You must select a Pokemon under 600 BST unless you are playing the NATDEX variant of the game. All "pivot" options are subject to this BST as well.|
-|You may catch 3 UNIQUE pivot options from the areas prior to the lock-in point. You may keep the items held by these Pokemon.|
-|Pivoting is dynamic, meaning you may run any Pokemon at the front of your party during the pivoting phase. As long the Pokemon in the front of your party lives, the run may continue (a Pokemon that dies to overworld poison damage may no longer be used -- but it must not be in the front of your party).|
-|Evolving into a Pokemon over the BST limit is ok. Additionally, evolving into a Pokemon with an illegal ability warrants an additional pivot if it happens before the lockin point OR if after the lock-in point, is COMPLETELY legal to be ran with no restrictions.|
-|You may get 1 of each favorite as a free catch (selecting it in the lab awards 1 additional pivot option). Additionally, selecting a Pokemon with an illegal ability awards 1 additional pivot option.|
-|Pokemon may only receive EXP from a wild once prior to the early game lock in point or from required game progression encounters. Receiving EXP from a wild after the "Lock in" point should be avoided at all costs. Receiving EXP from a second wild Pokemon prior to the "Lock in" point disqualifies it from being ran and must be deposited ASAP. All shinies are free catches or kills and do not count towards EXP or catch rules.|
-|"Catch and release" is allowed ONLY for unescapable situions such as Block. Moves such as Fire Spin that are temporary do not warrant catch and release. You may catch, then release the Pokemon without looking at any information to prevent it from counting as a pivot option.|
-|You may run one of your pivot options or your starter.|
-|Once you settle on a pivot, you must run it until you reach the mid game pivot point (i.e. Safari Zone).|
+|<div align="center">In the "Lab" you may chose your starter and use any items and moves available to you. The "Lab" is defined as the entire game through the first rival fight. After rival fight, standard rules apply.</div>  |
+|<div align="center">You must select a Pokemon under 600 BST unless you are playing the NATDEX variant of the game. All "pivot" options are subject to this BST as well.</div>  |
+|<div align="center">You may catch 3 UNIQUE pivot options from the areas prior to the lock-in point. You may keep the items held by these Pokemon.</div>  |
+|<div align="center">Pivoting is dynamic, meaning you may run any Pokemon at the front of your party during the pivoting phase. As long the Pokemon in the front of your party lives, the run may continue (a Pokemon that dies to overworld poison damage may no longer be used -- but it must not be in the front of your party).</div>  |
+|<div align="center">Evolving into a Pokemon over the BST limit is ok. Additionally, evolving into a Pokemon with an illegal ability warrants an additional pivot if it happens before the lockin point OR if after the lock-in point, is COMPLETELY legal to be ran with no restrictions.</div>  |
+|<div align="center">You may get 1 of each favorite as a free catch (selecting it in the lab awards 1 additional pivot option). Additionally, selecting a Pokemon with an illegal ability awards 1 additional pivot option.</div>  |
+|<div align="center">Pokemon may only receive EXP from a wild once prior to the early game lock in point or from required game progression encounters. Receiving EXP from a wild after the "Lock in" point should be avoided at all costs. Receiving EXP from a second wild Pokemon prior to the "Lock in" point disqualifies it from being ran and must be deposited ASAP. All shinies are free catches or kills and do not count towards EXP or catch rules.</div>  |
+|<div align="center">"Catch and release" is allowed ONLY for unescapable situions such as Block. Moves such as Fire Spin that are temporary do not warrant catch and release. You may catch, then release the Pokemon without looking at any information to prevent it from counting as a pivot option.</div>  |
+|<div align="center">You may run one of your pivot options or your starter.</div>  |
+|<div align="center">Once you settle on a pivot, you must run it until you reach the mid game pivot point (i.e. Safari Zone).</div>  |
 
 ---
 
 |Mid Game Pivot|
 |-|
-|You must pivot to a new Pokemon that has not progressed you through the game yet (starters and Pokemon that passed the lock-in point) from the Mid Game pivoting area. See game specific rules for additional details on when/where this pivot must happen. These will be referred to as "Safari Pivots" going forward.|
-|You must complete the remainder of the game with your Safari Pivot.|
-|You may catch up to 6 Safari Options. You may catch 1 free pivot of each of your favorites (additional catches count towards your 6 pivot catches). All shinies are free catches.|
-|Banned ability mons don't count towards your catches **UNLESS** you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). -If you evolve an illegal mon into a legal one with a stone or rare candy that counts as 1 pivot still. You may not level up an illegal mon on trainers.|
-|You may only get 2 of same mon as an option (Favorites/shinies/illegal mons do not count towards these 2).|
-|Leveling up a pivot option 2 levels locks it in as your Safari Pivot.|
-|Seeing a Pokemon's HP stat confirms it as a Safari Option.|
-|You may check TMs, move tutors, etc. on a Safari Option BUT bringing a Safari Option anywhere in your party into a dungeon counts as your re-visit. (Don't soft lock yourself in Silph Co.).|
+|<div align="center">You must pivot to a new Pokemon that has not progressed you through the game yet (starters and Pokemon that passed the lock-in point) from the Mid Game pivoting area. See game specific rules for additional details on when/where this pivot must happen. These will be referred to as "Safari Pivots" going forward.</div>  |
+|<div align="center">You must complete the remainder of the game with your Safari Pivot.</div>  |
+|<div align="center">You may catch up to 6 Safari Options. You may catch 1 free pivot of each of your favorites (additional catches count towards your 6 pivot catches). All shinies are free catches.</div>  |
+|<div align="center">Banned ability mons don't count towards your catches **UNLESS** you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). -If you evolve an illegal mon into a legal one with a stone or rare candy that counts as 1 pivot still. You may not level up an illegal mon on trainers.</div>  |
+|<div align="center">You may only get 2 of same mon as an option (Favorites/shinies/illegal mons do not count towards these 2).</div>  |
+|<div align="center">Leveling up a pivot option 2 levels locks it in as your Safari Pivot.</div>  |
+|<div align="center">Seeing a Pokemon's HP stat confirms it as a Safari Option.</div>  |
+|<div align="center">You may check TMs, move tutors, etc. on a Safari Option BUT bringing a Safari Option anywhere in your party into a dungeon counts as your re-visit. (Don't soft lock yourself in Silph Co.).</div>  |
 
 ---
 
