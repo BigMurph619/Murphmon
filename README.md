@@ -120,20 +120,11 @@ DuoMon is the "All-Doubles Battles" take on this challenge. It is playable on Fi
   <summary>Rule Changes</summary>
   <ul>
     <li>You may catch up to 5 unique Pokemon as early game pivot options as opposed to 3.</li>
-    <li>Trainer Pokémon: Double Battle Mode (enabled)</li>
-    <li>Additional Pokémon for: Important Trainers +1, Regular Trainers +1, (Keep Boss Trainers +3)</li>
+    <li>You cannot run the same 2 Pokemon unless by evolving into a match.</li>
+    <li>No "Buddy Mons" (i.e Brockbuddy). HM friends are ok.</li>
+    <li>Safari Pivoting: You must pivot off of BOTH Pokemon to new options that you have not progressed through the game with yet. You may select from 8 options instead of your normal 6. They may not be the same Pokemon unless by evolving. All other normal Murphmon Safari rules apply.</li>
   </ul>
 </details>
-
-## DuoMon Rules
-
-|All Regular FRLG Murphmon Rules Apply Except:|
-|-|
-|FRLG Specific Rule #15 Doubles Battles does not apply|
-|Pre-Jimmy pivoting: You may catch up to 5 Pokemon as pivot options in addition to your lab starter. You may recieve exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
-| You cannot run the same Pokemon unless by evolving. i.e. Start with Blastoise and marshtomp, if marshtomp evolves into Blastoise that is ok|
-| No BrockBuddy |
-| Safari Pivoting: You must pivot off of BOTH Pokemon to new options that you have not progressed through the game with yet. You may select from 8 options instead of your normal 6. They may not be the same Pokemon unless by evolving. All other normal Murphmon Safari rules apply |
 
 # Game-Specific Rules
 
