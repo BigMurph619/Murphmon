@@ -112,19 +112,20 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
 
 ## FIRERED
 
-|  **Dungeons** |
-| :-----------: |
-|All Gyms       |
-|Mt. Moon       |
-|Diglett Cave   |
-|SS Anne        |
-|Rock Tunnel    |
-|Lavender Tower |
-|Rocket Hideout |
-|Silph co       |
-|Pokemon Mansion|
-|Seafoam Islands|
-|Victory Road   |
+<details>
+  <summary>Firered Dungeon List</summary>
+  <ul>
+    <li>All Gyms and Dojo</li>
+    <li>Mt. Moon</li>
+    <li>SS Anne</li>
+    <li>Rock Tunnel</li>
+    <li>Lavender Tower</li>
+    <li>Rocket Hideout</li>
+    <li>Silph Co</li>
+    <li>Pokemon Mansion</li>
+    <li>Victory Road</li>
+  </ul>
+</details>
 
 |Pathing|
 |-|
