@@ -17,6 +17,7 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 |<div align="center">You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit. Revisiting with your Safari/Bug-Catching Pivot is ok.</div>  |
 |<div align="center">You may not use healing stations in Dungeons unless game progress requires.</div>                           |
 |<div align="center">You must full clear all Gyms and Dojos once entering.</div>                                                 |
+|<div align="center">You may only catch a Pokemon as a pivot option, for game progression, as a needed HM friend, or as needed for "Catch and Release". You may trade a Pokemon as a swap for a pivot option (both game start and Safari). You may not receive a Pokemon from an NPC unless part of game progression or as needed for an HM friend.</div>  |
 
 
 ---
@@ -65,6 +66,7 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 |Evolving into a Pokemon over the BST limit is ok. Additionally, evolving into a Pokemon with an illegal ability warrants an additional pivot if it happens before the lockin point OR if after the lock-in point, is COMPLETELY legal to be ran with no restrictions.|
 |You may get 1 of each favorite as a free catch (selecting it in the lab awards 1 additional pivot option). Additionally, selecting a Pokemon with an illegal ability awards 1 additional pivot option.|
 |Pokemon may only receive EXP from a wild once prior to the early game lock in point or from required game progression encounters. Receiving EXP from a wild after the "Lock in" point should be avoided at all costs. Receiving EXP from a second wild Pokemon prior to the "Lock in" point disqualifies it from being ran and must be deposited ASAP. All shinies are free catches or kills and do not count towards EXP or catch rules.|
+|"Catch and release" is allowed ONLY for unescapable situions such as Block. Moves such as Fire Spin that are temporary do not warrant catch and release. You may catch, then release the Pokemon without looking at any information to prevent it from counting as a pivot option.|
 |You may run one of your pivot options or your starter.|
 |Once you settle on a pivot, you must run it until you reach the mid game pivot point (i.e. Safari Zone).|
 
@@ -82,6 +84,12 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 |You may check TMs, move tutors, etc. on a Safari Option BUT bringing a Safari Option anywhere in your party into a dungeon counts as your re-visit. (Don't soft lock yourself in Silph Co.).|
 
 # Settings
+
+<details>
+  <summary>Click to expand</summary>
+  This setting
+That setting
+</details>
 
 [Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
 
@@ -109,7 +117,6 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
 
 |Pathing|
 |-|
-
 |You may not enter Lavender Tower until you have the Silph Scope and are ready to rescue Fuji.|
 |You must beat Misty before “Dig” Rocket.|
 |You may fight SS Anne trainers in any order.|
@@ -128,39 +135,13 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
     - You may use Brockbuddy to lead fights, multiple swaps, or any way you see fit **EXCEPT using illegal moves.**
     - Brockbuddy held items must also be legal. You may keep its held item if it has one.
 
-
-Sevii islands are treated as "overworld". All items allowed, all exp allowed, etc.
-    - You may return to Sevii islands at any point.
-    - You may use a second HM friend for Rock Smash as needed.
-
-15. Double battles:
-    - You may use any legal second mon you have already caught.
-    - You may attack freely with the second mon and it may hold legal held items.
-    - You may only have 2 Pokemon in your party.
-
-16. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed.
-    - Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon.
-    - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
-
 --------------------------------------------------
 
 # NATDEX
 
 NATDEX is a variant of Kaizo IronMON created by cyansixfour that includes all Pokemon and their variants, updated type charts and effectiveness including fairy typing, added in some fairy typing moves, and a few other quality of life changes. NATDEX Murphmon uses the 1.1.2 NATDEX patch with some additional changes to encounter rates in the early game and Safari pivoting for the Murphmon and Monomon formats.
 
-The only rule changes are: You may have 9 favorites instead of 3 and legendaries are allowed as long as they are 599 BST or under.
-
-### Settings and Setup:
-
-This mode utilizes its own patch, tracker extension and randomizer.
-
-The patch utilizes cyansixfour's v1.1.2 patch with some additional changes to encounter rates made by BigMurph619 specifically for Murphmon and Monomon. NOTE: Do NOT use this patch to play NATDEX IronMON as it is catered specifically for this challenge. Download and apply this [patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/Natdex%20Firered%20Murphmon%20and%20monomon%20Patch.bps) to your vanilla, legally obtained Firered v1.1 ROM.
-
-Utilize the v1.1.2 NatDexExtension and randomizer that can be found [here](https://github.com/CyanSMP64/NatDexExtension/releases/download/v1.1.2/NatDexExtension_v1.1.2.zip)
-
-[NATDEX Firered Murphmon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/NATDEX%20Firered%20Murphmon%20rnqs.rnqs)
-
-Doubles: [NATDEX Firered Murphmon Duomon Settings String](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/NATDEX%20Firered%20Murphmon%20Duomon%20rnqs.rnqs)
+The only rule changes are: You may have 9 favorites instead of 3 and the BST limit is allowed up to 600 BST.
 
 --------------------------------------------------
 
