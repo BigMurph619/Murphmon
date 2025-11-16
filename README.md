@@ -93,6 +93,15 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
   |Another one|
 </details>
 
+<details>
+  <summary>Example Dropdown List</summary>
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+</details>
+
 [Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
 
 Murphmon uses its own patch, RNQS file, and specific randomizer versions.
