@@ -86,7 +86,7 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 # Settings
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Notable settings string applications. (Click to expand)</summary>
   This setting
 That setting
 </details>
