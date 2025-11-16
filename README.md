@@ -4,7 +4,7 @@
 
 # What is Murphmon?
 
-Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It aims to be a bit easier and faster while adding more decision making opportunities to the game. Murphmon can be played 10 different ways, all of which remain officially unbeaten. Many rules and settings are mindfully adapted for tournament play and the game is intended to be challenging but beatable.
+### Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It aims to be a bit easier and faster while adding more decision making opportunities to the game. Murphmon can be played 10 different ways, all of which remain officially unbeaten. Many rules and settings are mindfully adapted for tournament play and the game is intended to be challenging but beatable.
 
 # Core Game Rules
 
