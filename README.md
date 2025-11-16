@@ -110,6 +110,19 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
   </ul>
 </details>
 
+<details>
+  <summary>Pathing</summary>
+  <ul>
+    <li>You must beat Misty before “Dig” Rocket.</li>
+    <li>You may fight SS Anne trainers in any order.</li>
+    <li>You must beat Lt. Surge before entering Rock Tunnel.</li>
+    <li>You must beat Erika before waking up Snorlax.</li>
+    <li>You must beat Koga and the remainder of the game with your Safari Zone pivot.</li>
+    <li>You must beat Sabrina before entering the Pokemon Mansion.</li>
+    <li>Sevii islands are treated as "overworld". All items allowed, all exp allowed, etc. You may return to Sevii islands at any point. You may use a second HM friend for Rock Smash as needed.</li>
+  </ul>
+</details>
+
 |Pathing|
 |-|
 |You may not enter Lavender Tower until you have the Silph Scope and are ready to rescue Fuji.|
