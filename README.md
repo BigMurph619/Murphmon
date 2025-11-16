@@ -10,10 +10,9 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 
 |You must only use 1 Pokemon for all fights and encounters except where noted in game specific rules.|
 |----------------------------------------------------------------------------------------------------|
-|<div align="center">Permadeath: If your primary Pokemon faints, the game is over.</div>                                       |
+|<div align="center">Permadeath: If your primary Pokemon faints, the game is over. You may not switch Pokemon during battles or encounters unless stated in a game-specific rule. If a switchout is forced, you must immediately switch back in. Your HM friend may be used freely in doubles battles but must follow all battling rules other than the use of HM moves. </div>   |
 |<div align="center">You may not heal HP, Status, or PP outside of battle using items.</div>  |
 |<div align="center">You may select as many "favorites" as equal to the generation of game you are playing i.e. 3 for Emerald, 4 for Heartgold, 9 for NATDEX, etc. Favorites must be under 600 BST for all formats besides NATDEX; NATDEX may include 600 BST. Favorites must be selected prior to the start of the attempt. There are no rules against legendaries.</div>  |
-|<div align="center">Pokemon may only receive EXP from a wild once prior to the early game "lock in point" or from required game progression encounters. Receiving EXP from a wild after the "Lock in" point should be avoided at all costs. Receiving EXP from a second wild Pokemon prior to the "Lock in" point disqualifies it from being ran and must be deposited ASAP. All shinies are free catches or kills and do not count towards EXP or catch rules.</div>  |
 |<div align="center">You may not re-fight trainers at any point using the VS Seeker or other means.</div>                        |
 |<div align="center">You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit. Revisiting with your Safari/Bug-Catching Pivot is ok.</div>  |
 |<div align="center">You may not use healing stations in Dungeons unless game progress requires.</div>                           |
@@ -52,103 +51,85 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 |<div align="center">Spore and assist are banned. Additionally, OHKO and sleep moves are banned from being used in conjunction with the No Guard ability.</div>  |
 |<div align="center">You are allowed to use a banned move through **Transform, metronome or after copying it using Mimic or Mirror Move.**</div>  |
 |<div align="center">Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone/Bug Catching Pivot has been made (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.</div>  |
+|<div align="center">All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. </div>  |
+|<div align="center">Sketch - You may ONLY use Sketch in a trainer battle. Sketching on a wild Pokemon is no longer allowed. You may only relearn Sketch once from the move relearner. You may use Sketch multiple times if you receive the move in any other capacity. </div>  |
+
+## Game Start and Pivoting
+
+|Game Start|
+|-|
+|In the "Lab" you may chose your starter and use any items and moves available to you. The "Lab" is defined as the entire game through the first rival fight. After rival fight, standard rules apply.|
+|You must select a Pokemon under 600 BST unless you are playing the NATDEX variant of the game. All "pivot" options are subject to this BST as well.|
+|You may catch 3 UNIQUE pivot options from the areas prior to the lock-in point. You may keep the items held by these Pokemon.|
+|Pivoting is dynamic, meaning you may run any Pokemon at the front of your party during the pivoting phase. As long the Pokemon in the front of your party lives, the run may continue (a Pokemon that dies to overworld poison damage may no longer be used -- but it must not be in the front of your party).|
+|Evolving into a Pokemon over the BST limit is ok. Additionally, evolving into a Pokemon with an illegal ability warrants an additional pivot if it happens before the lockin point OR if after the lock-in point, is COMPLETELY legal to be ran with no restrictions.|
+|You may get 1 of each favorite as a free catch (selecting it in the lab awards 1 additional pivot option). Additionally, selecting a Pokemon with an illegal ability awards 1 additional pivot option.|
+|Pokemon may only receive EXP from a wild once prior to the early game lock in point or from required game progression encounters. Receiving EXP from a wild after the "Lock in" point should be avoided at all costs. Receiving EXP from a second wild Pokemon prior to the "Lock in" point disqualifies it from being ran and must be deposited ASAP. All shinies are free catches or kills and do not count towards EXP or catch rules.|
+|You may run one of your pivot options or your starter.|
+|Once you settle on a pivot, you must run it until you reach the mid game pivot point (i.e. Safari Zone).|
+
+---
+
+|Mid Game Pivot|
+|-|
+|You must pivot to a new Pokemon that has not progressed you through the game yet (starters and Pokemon that passed the lock-in point) from the Mid Game pivoting area. See game specific rules for additional details on when/where this pivot must happen. These will be referred to as "Safari Pivots" going forward.|
+|You must complete the remainder of the game with your Safari Pivot.|
+|You may catch up to 6 Safari Options. You may catch 1 free pivot of each of your favorites (additional catches count towards your 6 pivot catches). All shinies are free catches.|
+|Banned ability mons don't count towards your catches **UNLESS** you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). -If you evolve an illegal mon into a legal one with a stone or rare candy that counts as 1 pivot still. You may not level up an illegal mon on trainers.|
+|You may only get 2 of same mon as an option (Favorites/shinies/illegal mons do not count towards these 2).|
+|Leveling up a pivot option 2 levels locks it in as your Safari Pivot.|
+|Seeing a Pokemon's HP stat confirms it as a Safari Option.|
+|You may check TMs, move tutors, etc. on a Safari Option BUT bringing a Safari Option anywhere in your party into a dungeon counts as your re-visit. (Don't soft lock yourself in Silph Co.).|
 
 # Settings
 
 [Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
 
-Firered Murphmon uses its own patch, RNQS file, and Randomizer. Please note that using the Super Kaizo IronMON settings will NOT work despite heavily inspiring this game mode.
+Murphmon uses its own patch, RNQS file, and specific randomizer versions.
 
 The Murphmon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
 
-Download and apply Firered Murphmon/Monomon patch to your vanilla, legally obtained Firered ROM [Patch](https://github.com/TakeJoshyy/TheMurphVerse/blob/afef012e357e00a26157fdd67df5a65941b59cb7/1.GameModes/FireRed-Murphmon/Firered%20Murphmon%20and%20Monomon%20Patch.ips)
-
-RNQS download [rnqs file](https://github.com/TakeJoshyy/TheMurphVerse/blob/afef012e357e00a26157fdd67df5a65941b59cb7/1.GameModes/FireRed-Murphmon/FRLG%20Murphmon%20Settings%20String.rnqs)
-
-You are highly encouraged to use the linked randomizer as others have not worked in the past. [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
-
-[Java](https://www.java.com/en/download/manual.jsp)
-
-# Specific Game Rules
+# Game-Specific Rules
 
 ## FIRERED
-
-> Note: All caves are dungeons except on Sevii Islands.
 
 |  **Dungeons** |
 | :-----------: |
 |All Gyms       |
+|Mt. Moon       |
+|Diglett Cave   |
+|SS Anne        |
+|Rock Tunnel    |
 |Lavender Tower |
 |Rocket Hideout |
 |Silph co       |
 |Pokemon Mansion|
-|SS Anne        |
-| :-----------: |
-|     Caves     |
-| :-----------: |
-|Mt. Moon       |
-|Diglett Cave   |
-|Rock Tunnel    |
 |Seafoam Islands|
 |Victory Road   |
 
-> You may not enter Lavender Tower until you have the Silph Scope and are ready to rescue Fuji
+|Pathing|
+|-|
 
-> Rocket Hideout Includes the Game Corner
+|You may not enter Lavender Tower until you have the Silph Scope and are ready to rescue Fuji.|
+|You must beat Misty before “Dig” Rocket.|
+|You may fight SS Anne trainers in any order.|
+|You must beat Lt. Surge before entering Rock Tunnel.|
+|You must beat Erika before waking up Snorlax.|
+|You must beat Koga and the remainder of the game with your Safari Zone pivot.|
+|You must beat Sabrina before entering the Pokemon Mansion.|
+|Sevii islands are treated as "overworld". All items allowed, all exp allowed, etc. You may return to Sevii islands at any point. You may use a second HM friend for Rock Smash as needed.|
 
->You must obtain HM01 Cut before leaving SS Anne, fight order is your choice
 
->Forests are NOT dungeons
-
-
-1. You may pick any mon you want in the lab that is 599 BST or lower. You may keep its held item. **No legendaries allowed.** If you evolve into a Pokemon that is over 599 BST, you may use that Pokemon so long as it aligns with Ability rules.
-
-2. All items, moves, and abilities are allowed in the lab.
-
-3. Pivoting:
-    - You may catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. You may keep items held by Pokemon.
-    - If you pivot, it must pivot before the first trainer fight after the lab. You may NOT pivot again until the Safari Zone.
-    - You may receive EXP from 1 wild mon on each legal pivot option before locking in your runners. If a Pokemon receives exp from a second wild Pokemon, you may NOT run that Pokemon. You may NOT catch a second of that Pokemon as a work around if it is a favorite. Fighting the first trainer is your cutoff for receiving wild exp.
-    - You may use any Mon at the front of your party until you lock in your pivot. (If a mon dies of poison outside of battle AND you have another Pokemon in your party the run may continue but the poisoned Pokemon is Permadead)
-    - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots.
-    - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon).
-
-4. "Brock Buddy": 
+    "Brock Buddy": 
     - You may catch a second Pokemon to fight with in the Pewter City Gym only
     - This must be the first Pokemon you encounter on the route 2 Grass AFTER Viridian Forest.
-    - There are no restrictions[Illegal abilities/BSTs allowed].
-    - Catch the first encounter or bust.
+    - There are no restrictions on abilities or BST.
     - Brock Buddy may faint but your primary Pokemon cannot.
     - You may use Brockbuddy to lead fights, multiple swaps, or any way you see fit **EXCEPT using illegal moves.**
+    - Brockbuddy held items must also be legal. You may keep its held item if it has one.
 
-5. All hidden items are allowed. You may only obtain step items once each.
 
-6. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed (i.e. mega punch/kick guys after mt. Moon). - **No HMs.**
-    - You may only relearn Sketch once from the move relearner.
-    - You may use Sketch multiple times if you receive the move in any other capacity.
-    - You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item. You may use flutes so long as they don't impact the battle (i.e. wake up sleep, cure confuse, etc.) to scout moves for Sketch.
-
-7. You must beat Misty before “Dig” Rocket.
-
-8. You must beat Lt. Surge before entering Rock Tunnel.
-
-9. SS Anne EXP and item farming is allowed (Treat this as a dungeon).
-
-10. You must beat Erika before waking up Snorlax.
-
-11. You must pivot to a new Pokemon that has not progressed you through the game yet from the Safari Zone (Brock Buddy is eligible for pivoting so long as it was not one of your Mons that progressed you through the game in another capacity). You may catch up to 6 Safari Zone pivot options.
-    - Banned ability mons don't count towards your catches **UNLESS** you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). -If you evolve an illegal mon into a legal one with a stone or rare candy that counts as 1 pivot still. You may not level up an illegal mon on trainers.
-    - You may catch 1 free pivot of each of your favorites (additional catches count towards your 6 pivot catches).
-    - All shinies are free catches
-    - You may only level up each Pokemon once before committing to a pivot.
-    - You may only get 2 of same mon as an option (Favorites/shinies/illegal mons do not count towards these 2)
-    -You may create save states to retry catching encounters or “catch and stow” potential options before committing to them to save time. If you see any of the Pokemon’s stats (including its HP within your party), it automatically counts as one of your catches.
-
-12. You must beat Koga and the remainder of the game with your Safari Zone pivot.
-
-13. You must beat Sabrina before entering the Pokemon Mansion.
-
-14. Sevii islands are treated as "overworld". All items allowed, all exp allowed, etc.
+Sevii islands are treated as "overworld". All items allowed, all exp allowed, etc.
     - You may return to Sevii islands at any point.
     - You may use a second HM friend for Rock Smash as needed.
 
