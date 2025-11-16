@@ -91,6 +91,45 @@ Murphmon uses its own patch, RNQS file, and specific randomizer versions.
 
 The Murphmon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
 
+---
+
+# NATDEX
+
+NATDEX is a variant of Kaizo IronMON created by cyansixfour that includes all Pokemon and their variants, updated type charts and effectiveness including fairy typing, added in some fairy typing moves, and a few other quality of life changes. NATDEX Murphmon uses the 1.1.2 NATDEX patch with some additional changes to encounter rates in the early game and Safari pivoting for the Murphmon and Monomon formats.
+
+The only rule changes are: You may have 9 favorites instead of 3 and the BST limit is allowed up to 600 BST.
+
+--------------------------------------------------
+
+# DuoMon
+
+DuoMon is the "All-Doubles Battles" take on this challenge. It is playable on Firered, Emerald, Heartgold and NATDEX for both Firered and Emerald.
+
+<details>
+  <summary>Settings Changes</summary>
+  <ul>
+    <li>Standardize EXP Curves to: Medium Slow</li>
+    <li>Trainer Pokémon: Double Battle Mode (enabled)</li>
+    <li>Additional Pokémon for: Important Trainers +1, Regular Trainers +1, (Keep Boss Trainers +3)</li>
+  </ul>
+</details>
+
+|Settings changes include the following|
+|-|
+|Standardize EXP Curves to: Medium Slow|
+|Trainer Pokémon: Double Battle Mode (enabled)|
+|Additional Pokémon for: Important Trainers +1, Regular Trainers +1, (Keep Boss Trainers +3)|
+
+## DuoMon Rules
+
+|All Regular FRLG Murphmon Rules Apply Except:|
+|-|
+|FRLG Specific Rule #15 Doubles Battles does not apply|
+|Pre-Jimmy pivoting: You may catch up to 5 Pokemon as pivot options in addition to your lab starter. You may recieve exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
+| You cannot run the same Pokemon unless by evolving. i.e. Start with Blastoise and marshtomp, if marshtomp evolves into Blastoise that is ok|
+| No BrockBuddy |
+| Safari Pivoting: You must pivot off of BOTH Pokemon to new options that you have not progressed through the game with yet. You may select from 8 options instead of your normal 6. They may not be the same Pokemon unless by evolving. All other normal Murphmon Safari rules apply |
+
 # Game-Specific Rules
 
 ## FIRERED
@@ -133,39 +172,9 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
 
 --------------------------------------------------
 
-# NATDEX
 
-NATDEX is a variant of Kaizo IronMON created by cyansixfour that includes all Pokemon and their variants, updated type charts and effectiveness including fairy typing, added in some fairy typing moves, and a few other quality of life changes. NATDEX Murphmon uses the 1.1.2 NATDEX patch with some additional changes to encounter rates in the early game and Safari pivoting for the Murphmon and Monomon formats.
 
-The only rule changes are: You may have 9 favorites instead of 3 and the BST limit is allowed up to 600 BST.
 
---------------------------------------------------
-
-# DuoMon
-
-If you are here and wanting to play this: 1. You're crazy. 2. I like you.
-
-DuoMon is the Doubles Battles take on this challenge and can be done with a NATDEX variation as well.
-
-|Settings changes include the following|
-|-|
-|Standardize EXP Curves to: Medium Slow|
-|Trainer Pokémon: Double Battle Mode (enabled)|
-|Additional Pokémon for: Important Trainers +1, Regular Trainers +1, (Keep Boss Trainers +3)|
-
-## DuoMon Rules
-
-|All Regular FRLG Murphmon Rules Apply Except:|
-|-|
-|FRLG Specific Rule #15 Doubles Battles does not apply|
-|Pre-Jimmy pivoting: You may catch up to 5 Pokemon as pivot options in addition to your lab starter. You may recieve exp from 1 wild Pokemon for each one of your runners (receiving EXP from a wild still locks in a Pokemon as a pivot). |
-| You cannot run the same Pokemon unless by evolving. i.e. Start with Blastoise and marshtomp, if marshtomp evolves into Blastoise that is ok|
-| No BrockBuddy |
-| Safari Pivoting: You must pivot off of BOTH Pokemon to new options that you have not progressed through the game with yet. You may select from 8 options instead of your normal 6. They may not be the same Pokemon unless by evolving. All other normal Murphmon Safari rules apply |
-
-### MurphMon DuoMon Settings and Setup
-
-Utilize standard Firered Murphmon Setup Guidleines with [this settings string](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/FireRed-Murphmon/Firered%20Murphmon%20Duomon.rnqs)
 
 # FAQ
 
