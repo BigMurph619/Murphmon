@@ -182,7 +182,8 @@ Heartgold - note no mahogoney town
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/FRLGIronmonMap/) FRLG Interactive Map
  - [CyanSMP64](https://github.com/CyanSMP64) NATDEX Adaptation
- - [kipoterp](https://ibb.co/c3BLXZP) Sevii Islands Map
+ - [KipoTerp](https://ibb.co/c3BLXZP) Sevii Islands Map
  - [Safari Tracking Sheet](https://docs.google.com/spreadsheets/d/1FhwdFncNNF9plAkSF0eBrjodp_OFLh5xv4oBp2H42C4/edit?gid=2049712238#gid=2049712238)
+ - "The Council"
 
 ### [Top](#murphmon-rules) | [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules) | [NATDEX](#NATDEX) | [DuoMon](#DuoMon)
