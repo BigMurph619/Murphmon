@@ -11,7 +11,7 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 |You must only use 1 Pokemon for all fights and encounters except where noted in game specific rules.|
 |----------------------------------------------------------------------------------------------------|
 |<div align="center">Permadeath: If your primary Pokemon faints, the game is over. You may not switch Pokemon during battles or encounters unless stated in a game-specific rule. If a switchout is forced, you must immediately switch back in. Your HM friend may be used freely in doubles battles but must follow all battling rules other than the use of HM moves. </div>   |
-|<div align="center">You may not heal HP, Status, or PP outside of battle using items.</div>  |
+|<div align="center">You may not use items to heal HP, Status, or PP outside of battle.</div>  |
 |<div align="center">You may select as many "favorites" as equal to the generation of game you are playing i.e. 3 for Emerald, 4 for Heartgold, 9 for NATDEX, etc. Favorites must be under 600 BST for all formats besides NATDEX; NATDEX may include 600 BST. Favorites must be selected prior to the start of the attempt. There are no rules against legendaries.</div>  |
 |<div align="center">You may not re-fight trainers at any point using the VS Seeker or other means.</div>                        |
 |<div align="center">You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit. Revisiting with your Safari/Bug-Catching Pivot is ok.</div>  |
@@ -84,23 +84,6 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 |You may check TMs, move tutors, etc. on a Safari Option BUT bringing a Safari Option anywhere in your party into a dungeon counts as your re-visit. (Don't soft lock yourself in Silph Co.).|
 
 # Settings
-
-<details>
-  <summary>Notable settings string applications. (Click to expand)</summary>
-  |This setting|
-  |-|
-  |That setting|
-  |Another one|
-</details>
-
-<details>
-  <summary>Example Dropdown List</summary>
-  <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
-  </ul>
-</details>
 
 [Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
 
