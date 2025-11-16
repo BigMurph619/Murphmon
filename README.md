@@ -57,6 +57,8 @@
 |<div align="center">All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. </div>  |
 |<div align="center">Sketch - You may ONLY use Sketch in a trainer battle. Sketching on a wild Pokemon is no longer allowed. You may only relearn Sketch once from the move relearner. You may use Sketch multiple times if you receive the move in any other capacity. </div>  |
 
+---
+
 ## Game Start and Pivoting
 
 |Game Start|
@@ -85,17 +87,11 @@
 |Seeing a Pokemon's HP stat confirms it as a Safari Option.|
 |You may check TMs, move tutors, etc. on a Safari Option BUT bringing a Safari Option anywhere in your party into a dungeon counts as your re-visit. (Don't soft lock yourself in Silph Co.).|
 
-# Settings
-
-[Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
-
-ALL versions of Murphmon use their own patch, RNQS file, and specific randomizer versions. Refer to the link above for setup of Murphmon.
-
-The Murphmon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
-
 ---
 
-# NATDEX
+# Game-Specific Rules
+
+## NATDEX
 
 NATDEX is a variant of Kaizo IronMON created by cyansixfour that includes all Pokemon and their variants, updated type charts and effectiveness including fairy typing, added in some fairy typing moves, and a few other quality of life changes. NATDEX Murphmon uses the 1.1.2 NATDEX patch with some additional changes to encounter rates in the early game and Safari pivoting for the Murphmon and Monomon formats.
 
@@ -103,7 +99,7 @@ The only rule changes are: You may have 9 favorites instead of 3 and the BST lim
 
 --------------------------------------------------
 
-# DuoMon
+## DuoMon
 
 DuoMon is the "All-Doubles Battles" take on this challenge. It is playable on Firered, Emerald, Heartgold and NATDEX for both Firered and Emerald.
 
@@ -125,8 +121,6 @@ DuoMon is the "All-Doubles Battles" take on this challenge. It is playable on Fi
     <li>Safari Pivoting: You must pivot off of BOTH Pokemon to new options that you have not progressed through the game with yet. You may select from 8 options instead of your normal 6. They may not be the same Pokemon unless by evolving. All other normal Murphmon Safari rules apply.</li>
   </ul>
 </details>
-
-# Game-Specific Rules
 
 ## FIRERED
 
@@ -168,9 +162,15 @@ DuoMon is the "All-Doubles Battles" take on this challenge. It is playable on Fi
 
 --------------------------------------------------
 
+# Settings
 
+[Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
 
+ALL versions of Murphmon use their own patch, RNQS file, and specific randomizer versions. Refer to the link above for setup of Murphmon.
 
+The Murphmon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
+
+---
 
 # FAQ
 
