@@ -17,7 +17,7 @@
 |<div align="center">You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit. Revisiting with your Safari/Bug-Catching Pivot is ok.</div>  |
 |<div align="center">You may not use healing stations in Dungeons unless game progress requires.</div>                           |
 |<div align="center">You must full clear all Gyms and Dojos once entering.</div>                                                 |
-|<div align="center">You may only catch a Pokemon as a pivot option, for game progression, as a needed HM friend, or as needed for "Catch and Release". You may trade a Pokemon as a swap for a pivot option (both game start and Safari). You may not receive a Pokemon from an NPC unless part of game progression or as needed for an HM friend.</div>  |
+|<div align="center">You may only catch a Pokemon as a pivot option, for game progression, as a needed HM friend, or as needed for "Catch and Release". You may trade a Pokemon as a swap for a pivot option (both game start and Safari). Trades are subject to BST rules. You may not receive a Pokemon from an NPC unless part of game progression or as needed for an HM friend.</div>  |
 
 
 ---
@@ -31,7 +31,7 @@
 |<div align="center">You can only use items that you receive from the ground, NPCs, and legally obtained Pokemon.</div>  |
 |<div align="center">You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc. Stealing them from a trainer battle is fine.</div>  |
 |<div align="center">You may only hold consumable items, everstone and items used for repelling or escaping wild encounters.</div>  |
-|<div align="center">X Items are not allowed on the Elite 4 or champion. Other battle items suchs as dire hit and guard spec are allowed.</div>  |
+|<div align="center">X Items are not allowed on the Elite 4 or champion. Other battle items such as dire hit and guard spec are allowed.</div>  |
 |<div align="center">Flutes may only be used for game progression and scouting Pokemon.</div>  |
 |<div align="center">You may use Rare Candy, PP UP, or PP MAX.</div>  |
 
@@ -78,7 +78,7 @@
 
 |Mid Game Pivot|
 |-|
-|<div align="center">You must pivot to a new Pokemon that has not progressed you through the game yet (starters and Pokemon that passed the lock-in point) from the Mid Game pivoting area. See game specific rules for additional details on when/where this pivot must happen. These will be referred to as "Safari Pivots" going forward.</div>  |
+|<div align="center">You must pivot to a new Pokemon under 600 BST (Under 601 for NATDEX) that has not progressed you through the game yet (starters and Pokemon that passed the lock-in point) from the Mid Game pivoting area. See game specific rules for additional details on when/where this pivot must happen. These will be referred to as "Safari Pivots" going forward.</div>  |
 |<div align="center">You must complete the remainder of the game with your Safari Pivot.</div>  |
 |<div align="center">You may catch up to 6 Safari Options. You may catch 1 free pivot of each of your favorites (additional catches count towards your 6 pivot catches). All shinies are free catches.</div>  |
 |<div align="center">Banned ability mons don't count towards your catches **UNLESS** you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). -If you evolve an illegal mon into a legal one with a stone or rare candy that counts as 1 pivot still. You may not level up an illegal mon on trainers.</div>  |
@@ -117,6 +117,7 @@ DuoMon is the "All-Doubles Battles" take on this challenge. It is playable on Fi
   <ul>
     <li>You may catch up to 5 unique Pokemon as early game pivot options as opposed to 3.</li>
     <li>You cannot run the same 2 Pokemon unless by evolving into a match.</li>
+    <li>Either/both may be used for NPC tandem fights and used freely.</li>
     <li>No "Buddy Mons" (i.e Brockbuddy). HM friends are ok.</li>
     <li>Safari Pivoting: You must pivot off of BOTH Pokemon to new options that you have not progressed through the game with yet. You may select from 8 options instead of your normal 6. They may not be the same Pokemon unless by evolving. All other normal Murphmon Safari rules apply.</li>
   </ul>
@@ -210,7 +211,7 @@ You must defeat Steven after the E4. ALL moves (except HMs), held items, X items
     <li>Slowpoke Well</li>
     <li>Underground Path</li>
     <li>Burned Tower</li>
-    <li>Lighthouse (May only visit 2 times total)</li>
+    <li>Lighthouse (May only visit 2 times total, you MUST have the Secretpotion upon second entry)</li>
     <li>Rocket Hideout</li>
     <li>Radio Tower Part 1 (Obtain Password)</li>
     <li>Radio Tower Part 2 (Underground Path)</li>
@@ -236,7 +237,7 @@ You must defeat Steven after the E4. ALL moves (except HMs), held items, X items
     <li>You may only smash rocks once for their possible item.</li>
     <li>Radio Tower is 3 different dungeons in 1, you may heal between each part.</li>
     <li>The mid-game pivot area is the Bug Catching contest. You MAY NOT use save states or "bank" any catches. If you faint, your run is over. Be very careful to not accidently catch anything you dont mean to, it WILL count as a pivot if you leave the bug contest with that mon. You may catch something else to replace it within the same visit to avoid being locked into something you don't want.</li>
-    <li>You MUST use your pre-pivot in the front of your party throughout the pivoting process. You may scout Pokemon within the bug catching contest using protect, etc. Fainting a Pokemon who traps you is ok. Self-destruct, etc. incidents are ok.</li>
+    <li>You MUST use your pre-pivot in the front of your party throughout the pivoting process. You may not use damaging moves on pivot options. You may scout Pokemon within the bug catching contest using protect, etc. Fainting a Pokemon who traps you is ok. Self-destruct, etc. incidents are ok.</li>
     <li>You may participate in the Pokeathlon once and use your points to purchase one item as a reward.</li>
     <li>You may use the healing house en route to Victory Road like a Pokemon Center.</li>
     <li>You may not farm Poison Healing on wilds.</li>
@@ -259,15 +260,13 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
 
 # FAQ
 
--shell armor allowed
--You **DO NOT** have to let your Pokemon Evolve
--allowed to keep soda shack sodas
--can keep castform mystic water
--can do trick house multiple times
-
-Heartgold - note no mahogoney town 
-- bug catching, may use only your pre-pivot to attack. may only KO that Pokemon once, may not attack it again after that
-- 
+-Shell Armor and battle armor are always allowed.
+-You **DO NOT** have to let your Pokemon Evolve.
+-You may keep soda pop shack sodas (Emerald)
+-You may do the Trick House multiple times (Emerald)
+-All move tutors may be used once
+-In duomon/doubles fights allowing attacking, you may attack your own mon. This includes electric moves with volt absorb, swagger + own tempo, etc.
+-Duo - Murphmon: Any combo may be used until a Safari Pivot has leveled up twice and is locked in.
 
 --------------------------------------------------
 
