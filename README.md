@@ -272,13 +272,13 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
 
 # Credits/Useful Links
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/f9c2b3207a20e2d5f3bb1cdd24848aed60c2224a/readme.md) 
- - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
+ - [iateyourpie](https://www.twitch.tv/iateyourpie) Created Super Kaizo IronMON, the primary inspiration for Murphmon.
  - [Something Smart](https://github.com/something-smart) For the Modified Randomizer
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/FRLGIronmonMap/) FRLG Interactive Map
  - [CyanSMP64](https://github.com/CyanSMP64) NATDEX Adaptation
  - [KipoTerp](https://ibb.co/c3BLXZP) Sevii Islands Map
  - [Safari Tracking Sheet](https://docs.google.com/spreadsheets/d/1FhwdFncNNF9plAkSF0eBrjodp_OFLh5xv4oBp2H42C4/edit?gid=2049712238#gid=2049712238)
- - "The Council"
+ - "The Council" For collaborating, developing, and improving on this game with me: TakeJoshyy, KipoTerp, Reilnur, Captdanieldore, BennyTots, Bemidgegaming, CamMan52, and Roflmaogamers1.
 
-### [Top](#murphmon-rules) | [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules) | [NATDEX](#NATDEX) | [DuoMon](#DuoMon)
+### [Top](#Murphmon) 
