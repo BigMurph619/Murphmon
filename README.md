@@ -40,10 +40,10 @@
 |Pure Power and huge power are allowed so long as you NEVER use a physical attacking move.|
 |-|
 |<div align="center">Pickup is allowed only if you do not keep pickup items.</div>  |
-|<div align="center">Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.</div>  |
+|<div align="center">Pokemon 420 BST or Lower are exempt from ALL banned abilities/combos and may be used freely.</div>  |
 |<div align="center">Compoundeyes may not be used in conjunction with Dark Void.</div>  |
 |<div align="center">No guard may not be used in conjunction with ANY sleep move or OHKO move.</div>  |
-|<div align="center">Magic guard?</div>  |
+|<div align="center">Magic guard</div>  |
 
 
 ## Moves:
@@ -142,6 +142,7 @@ DuoMon is the "All-Doubles Battles" take on this challenge. It is playable on Fi
 <details>
   <summary>Pathing</summary>
   <ul>
+    <li>Lock-in point = First non-rival trainer fight.</li>
     <li>You must beat Misty before “Dig” Rocket.</li>
     <li>You may fight SS Anne trainers in any order.</li>
     <li>You must beat Lt. Surge before entering Rock Tunnel.</li>
@@ -160,6 +161,90 @@ DuoMon is the "All-Doubles Battles" take on this challenge. It is playable on Fi
     - You may use Brockbuddy to lead fights, multiple swaps, or any way you see fit **EXCEPT using illegal moves.**
     - Brockbuddy held items must also be legal. You may keep its held item if it has one.
 
+## Emerald
+
+<details>
+  <summary>Emerald Dungeon List</summary>
+  <ul>
+    <li>All Gyms</li>
+    <li>Soda Pop Shack</li>
+    <li>Each Visit to the Trick House must be completed</li>
+    <li>Mt. Chimney while Team Magma is present</li>
+    <li>Weather Institute</li>
+    <li>Mt. Pyre</li>
+    <li>Magma Hideout</li>
+    <li>Aqua Hideout</li>
+    <li>Abandoned Ship</li>
+    <li>Underwater Cave</li>
+    <li>Victory Road</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Pathing</summary>
+  <ul>
+    <li>Lock-in point = Team Aqua Grunt in the woods.</li>
+    <li>Must fight Brawley before going North of Slateport.</li>
+    <li>Must defeat Winona and the rest of the game with your Safari pivot.</li>
+    <li>Must defeat Lilycove Rival before entering Mt. Pyre.</li>
+    <li>You must bring your pre-Safari pivot into Gym 7 against Tate & Liza. If it somehow dies before the gym leader fight, you can revive it by depositing the pre-Safari pivot in your PC then withdrawing it. You may use its turn freely ONLY in the T&L fight, except no HM moves.</li>
+    <li>You may go on the SS Tidal before Steven.</li>
+  </ul>
+</details>
+
+    Other Notes
+    - You may play the lotto once in hopes of a PP UP.
+    - You may catch a grass Pokemon to receive TM19.
+    - Trainer Hill is banned.
+    - Only use one Pokemon for the Tandem fight against Maxie.
+
+You must defeat Steven after the E4. ALL moves (except HMs), held items, X items, etc. are allowed for this fight.
+
+## Heartgold
+
+<details>
+  <summary>Heartgold Dungeon List</summary>
+  <ul>
+    <li>All Gyms</li>
+    <li>Bellsprout Tower</li>
+    <li>Slowpoke Well</li>
+    <li>Underground Path</li>
+    <li>Burned Tower</li>
+    <li>Lighthouse (May only visit 2 times total)</li>
+    <li>Rocket Hideout</li>
+    <li>Radio Tower Part 1 (Obtain Password)</li>
+    <li>Radio Tower Part 2 (Underground Path)</li>
+    <li>Radio Tower Part 3 (Defeat Archer)</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Pathing</summary>
+  <ul>
+    <li>Lock-in Point = Bellsprout Tower Entry</li>
+    <li>Must Defeat Morty before entering Bug Catching Contest</li>
+    <li>Must Defeat Chuck, Jasmine, and the rest of the game with Bug Catching Pivot</li>
+    <li>Must Defeat Chuck and Jasmine before entering Mahogany Town.</li>
+    <li>Kanto is free game, there is no mandatory pathing or dungeons besides Gyms. (You may enter Misty's Gym to retrieve machine part for game progression)</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Notes</summary>
+  <ul>
+    <li>You may change days and times for specific in-game events.</li>
+    <li>You may only smash rocks once for their possible item.</li>
+    <li>Radio Tower is 3 different dungeons in 1, you may heal between each part.</li>
+    <li>The mid-game pivot area is the Bug Catching contest. You MAY NOT use save states or "bank" any catches. If you faint, your run is over. Be very careful to not accidently catch anything you dont mean to, it WILL count as a pivot if you leave the bug contest with that mon. You may catch something else to replace it within the same visit to avoid being locked into something you don't want.</li>
+    <li>You MUST use your pre-pivot in the front of your party throughout the pivoting process. You may scout Pokemon within the bug catching contest using protect, etc. Fainting a Pokemon who traps you is ok. Self-destruct, etc. incidents are ok.</li>
+    <li>You may participate in the Pokeathlon once and use your points to purchase one item as a reward.</li>
+    <li>You may use the healing house en route to Victory Road like a Pokemon Center.</li>
+    <li>You may not farm Poison Healing on wilds.</li>
+  </ul>
+</details>
+
+You must defeat Red after all Kanto Badges have been collected. ALL moves (except HMs), held items, X items, etc. are allowed for this fight. You may adjust dates to manipulate weather.
+
 --------------------------------------------------
 
 # Settings
@@ -176,8 +261,13 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
 
 -shell armor allowed
 -You **DO NOT** have to let your Pokemon Evolve
+-allowed to keep soda shack sodas
+-can keep castform mystic water
+-can do trick house multiple times
 
 Heartgold - note no mahogoney town 
+- bug catching, may use only your pre-pivot to attack. may only KO that Pokemon once, may not attack it again after that
+- 
 
 --------------------------------------------------
 
