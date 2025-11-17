@@ -51,7 +51,7 @@
 |You may not use HM Moves with your primary Pokemon. You may use HM moves during double battles with your second Pokemon.|
 |-|
 |<div align="center">`Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)** NOTE: Moves that heal by doing damage like Giga Drain are allowed. Pain Split is banned.</div>  |
-|<div align="center">Spore and assist are banned. Additionally, OHKO and sleep moves are banned from being used in conjunction with the No Guard ability.</div>  |
+|<div align="center">Spore and assist are banned.</div>  |
 |<div align="center">You are allowed to use a banned move through **Transform, metronome or after copying it using Mimic or Mirror Move.**</div>  |
 |<div align="center">Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone/Bug Catching Pivot has been made (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.</div>  |
 |<div align="center">All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. </div>  |
@@ -70,7 +70,7 @@
 |<div align="center">Evolving into a Pokemon over the BST limit is ok. Additionally, evolving into a Pokemon with an illegal ability warrants an additional pivot if it happens before the lockin point OR if after the lock-in point, is COMPLETELY legal to be ran with no restrictions.</div>  |
 |<div align="center">You may get 1 of each favorite as a free catch (selecting it in the lab awards 1 additional pivot option). Additionally, selecting a Pokemon with an illegal ability awards 1 additional pivot option.</div>  |
 |<div align="center">Pokemon may only receive EXP from a wild once prior to the early game lock in point or from required game progression encounters. Receiving EXP from a wild after the "Lock in" point should be avoided at all costs. Receiving EXP from a second wild Pokemon prior to the "Lock in" point disqualifies it from being ran and must be deposited ASAP. All shinies are free catches or kills and do not count towards EXP or catch rules.</div>  |
-|<div align="center">"Catch and release" is allowed ONLY for unescapable situions such as Block. Moves such as Fire Spin that are temporary do not warrant catch and release. You may catch, then release the Pokemon without looking at any information to prevent it from counting as a pivot option.</div>  |
+|<div align="center">"Catch and release" is allowed ONLY for unescapable situations such as Block. Moves such as Fire Spin that are temporary do not warrant catch and release. You may catch, then release the Pokemon without looking at any information to prevent it from counting as a pivot option.</div>  |
 |<div align="center">You may run one of your pivot options or your starter.</div>  |
 |<div align="center">Once you settle on a pivot, you must run it until you reach the mid game pivot point (i.e. Safari Zone).</div>  |
 
