@@ -1,6 +1,6 @@
 # Murphmon
 
-### [Core Game Rules](#core-games-rules) | [Items Abilities and Moves](#Items-Abilities-and-Moves) | [Settings and Setup](#settings) | [Game Specific Rules](#Game-Specific-Rules) | [FAQ](#FAQ) | [Credits](#Credits/Useful-Links) |
+### [Core Game Rules](#core-games-rules) | [Items Abilities and Moves](#Items-Abilities-and-Moves) | [Settings and Setup](#settings) | [Game Specific Rules](#Game-Specific-Rules) | [FAQ](#FAQ) | [Credits](#Credits) |
 
 # What is Murphmon?
 
@@ -270,7 +270,7 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
 
 --------------------------------------------------
 
-# Credits/Useful Links
+# Credits
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/f9c2b3207a20e2d5f3bb1cdd24848aed60c2224a/readme.md) 
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Created Super Kaizo IronMON, the primary inspiration for Murphmon.
  - [Something Smart](https://github.com/something-smart) For the Modified Randomizer
