@@ -211,7 +211,7 @@ You must defeat Steven after the E4. ALL moves (except HMs), held items, X items
     <li>Slowpoke Well</li>
     <li>Underground Path</li>
     <li>Burned Tower</li>
-    <li>Lighthouse (May only visit 2 times total, you MUST have the Secretpotion upon second entry)</li>
+    <li>Lighthouse (May only visit 2 times total. You MUST reach Jasmine on first entry. You MUST have the Secretpotion upon second entry)</li>
     <li>Rocket Hideout</li>
     <li>Radio Tower Part 1 (Obtain Password)</li>
     <li>Radio Tower Part 2 (Underground Path)</li>
