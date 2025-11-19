@@ -1,6 +1,6 @@
 # Murphmon
 
-### [Core Game Rules](#core-games-rules) | [Items Abilities and Moves](#Items-Abilities-and-Moves) | [Settings and Setup](#settings) | [Game Specific Rules](#Game-Specific-Rules) | [FAQ](#FAQ) | [Credits](#Credits) |
+### [Core Game Rules](#core-games-rules) | [Items Abilities and Moves](#Items-Abilities-and-Moves) | [Settings and Setup](#settings) | [Game Specific Rules](#Game-Specific-Rules) | [FAQ](#FAQ) | [Helpful Links](#Helpful-Links) | [Credits](#Credits) |
 
 # What is Murphmon?
 
@@ -267,18 +267,27 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
     -All move tutors may be used once
     -In duomon/doubles fights allowing attacking, you may attack your own mon. This includes electric moves with volt absorb, swagger + own tempo, etc.
     -Duo - Murphmon: Any combo may be used until a Safari Pivot has leveled up twice and is locked in.
+    -Is this an official IronMON mode? No, this community is rooted in IronMON gaming and we highly suggest you join the IronMON discord to learn more about the inspiration behind playing Pokemon games this way.
+    -Can I play this without being in a tournament? Absolutely! We like to recognize those who livestream wins in the Murphverse Hall of Fame as well!
 
 --------------------------------------------------
+
+# Helpful Links
+ - [Sevii Islands Map](https://ibb.co/c3BLXZP) 
+ - [Firered Interactive Map](https://kelseyyoung.github.io/FRLGIronmonMap/) [Emerald Interactive Map](https://kelseyyoung.github.io/EmeraldIronmonMap/) [Heartgold Interactive Map](https://kelseyyoung.github.io/HGSSIronmonMap/)
+ - [Safari Tracking Sheet](https://docs.google.com/spreadsheets/d/1FhwdFncNNF9plAkSF0eBrjodp_OFLh5xv4oBp2H42C4/edit?gid=2049712238#gid=2049712238)
+ - 
+---
 
 # Credits
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/TakeJoshyy/TheMurphVerse/blob/f9c2b3207a20e2d5f3bb1cdd24848aed60c2224a/readme.md) 
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Created Super Kaizo IronMON, the primary inspiration for Murphmon.
  - [Something Smart](https://github.com/something-smart) For the Modified Randomizer
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
- - [kelseyyoung](https://kelseyyoung.github.io/FRLGIronmonMap/) FRLG Interactive Map
+ - [OnlySpaghettiCode](https://github.com/Brian0255/NDS-Ironmon-Tracker) For the NDS Ironmon Tracker
  - [CyanSMP64](https://github.com/CyanSMP64) NATDEX Adaptation
- - [KipoTerp](https://ibb.co/c3BLXZP) Sevii Islands Map
- - [Safari Tracking Sheet](https://docs.google.com/spreadsheets/d/1FhwdFncNNF9plAkSF0eBrjodp_OFLh5xv4oBp2H42C4/edit?gid=2049712238#gid=2049712238)
+ - KipoTerp and kelseyyoung for the maps.
+ - TakeJoshyy for the Safari Pivoting Sheet and Murphverse Website.
  - "The Council" For collaborating, developing, and improving on this game with me: TakeJoshyy, KipoTerp, Reilnur, Captdanieldore, BennyTots, Bemidgegaming, CamMan52, and Roflmaogamers1.
 
 ### [Top](#Murphmon) 
