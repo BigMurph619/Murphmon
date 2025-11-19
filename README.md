@@ -276,7 +276,8 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
  - [Sevii Islands Map](https://ibb.co/c3BLXZP) 
  - [Firered Interactive Map](https://kelseyyoung.github.io/FRLGIronmonMap/) [Emerald Interactive Map](https://kelseyyoung.github.io/EmeraldIronmonMap/) [Heartgold Interactive Map](https://kelseyyoung.github.io/HGSSIronmonMap/)
  - [Safari Tracking Sheet](https://docs.google.com/spreadsheets/d/1FhwdFncNNF9plAkSF0eBrjodp_OFLh5xv4oBp2H42C4/edit?gid=2049712238#gid=2049712238)
- - 
+ - [Murphverse Discord](https://discord.gg/jFddfHWpar)
+
 ---
 
 # Credits
