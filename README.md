@@ -1,6 +1,6 @@
 # Murphmon
 
-### [Core Game Rules](#core-games-rules) | [Items Abilities and Moves](#Items-Abilities-and-Moves) | [Setup](#settings) | [Game Specific Rules](#Game-Specific-Rules) | [FAQ](#FAQ) | [Helpful Links](#Helpful-Links) | [Credits](#Credits) |
+### [Core Game Rules](#core-games-rules) | [Items Abilities and Moves](#Items-Abilities-and-Moves) | [Setup](#Setup) | [Game Specific Rules](#Game-Specific-Rules) | [FAQ](#FAQ) | [Helpful Links](#Helpful-Links) | [Credits](#Credits) |
 
 # What is Murphmon?
 
@@ -248,13 +248,21 @@ You must defeat Red after all Kanto Badges have been collected. ALL moves (excep
 
 --------------------------------------------------
 
-# Settings
+# Setup
 
 [Setup Guide Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/setup.md)
 
 ALL versions of Murphmon use their own patch, RNQS file, and specific randomizer versions. Refer to the link above for setup of Murphmon.
 
 The Murphmon patch includes Quality of life enhancements developed by DrMaple and encounter rate/Safari Fishing changes developed by BigMurph619.
+
+Notable Settings:
+    
+    -Catch Rates are set to 100%
+    -Gym Leaders are give 4 additional Pokemon
+    -Opponents all have useful, consumable held items.
+    -Opponents all have 'Smart' AI (Built into the patch for each game.
+    -All Pokemon, items, level up moves, move tutors, and abilities are randomized.
 
 ---
 
