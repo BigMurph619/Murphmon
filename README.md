@@ -260,13 +260,13 @@ The Murphmon patch includes Quality of life enhancements developed by DrMaple an
 
 # FAQ
 
--Shell Armor and battle armor are always allowed.
--You **DO NOT** have to let your Pokemon Evolve.
--You may keep soda pop shack sodas (Emerald)
--You may do the Trick House multiple times (Emerald)
--All move tutors may be used once
--In duomon/doubles fights allowing attacking, you may attack your own mon. This includes electric moves with volt absorb, swagger + own tempo, etc.
--Duo - Murphmon: Any combo may be used until a Safari Pivot has leveled up twice and is locked in.
+    -Shell Armor and battle armor are always allowed.
+    -You **DO NOT** have to let your Pokemon Evolve.
+    -You may keep soda pop shack sodas (Emerald)
+    -You may do the Trick House multiple times (Emerald)
+    -All move tutors may be used once
+    -In duomon/doubles fights allowing attacking, you may attack your own mon. This includes electric moves with volt absorb, swagger + own tempo, etc.
+    -Duo - Murphmon: Any combo may be used until a Safari Pivot has leveled up twice and is locked in.
 
 --------------------------------------------------
 
