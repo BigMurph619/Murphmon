@@ -283,7 +283,7 @@ Notable Settings:
 # Helpful Links
  - [Sevii Islands Map](https://ibb.co/c3BLXZP) 
  - [Firered Interactive Map](https://kelseyyoung.github.io/FRLGIronmonMap/) [Emerald Interactive Map](https://kelseyyoung.github.io/EmeraldIronmonMap/) [Heartgold Interactive Map](https://kelseyyoung.github.io/HGSSIronmonMap/)
- - [Safari Tracking Sheet](https://docs.google.com/spreadsheets/d/1FhwdFncNNF9plAkSF0eBrjodp_OFLh5xv4oBp2H42C4/edit?gid=2049712238#gid=2049712238)
+ - [Firered Safari Tracking Sheet](https://takejoshyy.github.io/Pokemon-Safari/) [Heartgold Bug Catching Tracking Sheet](https://takejoshyy.github.io/Pokemon-Safari/HG/)
  - [Murphverse Discord](https://discord.gg/jFddfHWpar)
 
 ---
