@@ -56,6 +56,7 @@
 |<div align="center">Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone/Bug Catching Pivot has been made (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.</div>  |
 |<div align="center">All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. </div>  |
 |<div align="center">Sketch - You may ONLY use Sketch in a trainer battle. Sketching on a wild Pokemon is no longer allowed. You may only relearn Sketch once from the move relearner. You may use Sketch multiple times if you receive the move in any other capacity.</div>  |
+|<div align="center">Beat up - You may use beat up with up to 3 total Pokemon in your party (4 in Duomon). You should never need more than 2 HM friends.</div>  |
 
 ---
 
