@@ -264,6 +264,8 @@ Notable Settings:
     -Opponents all have useful, consumable held items.
     -Opponents all have 'Smart' AI (Built into the patch for each game.
     -All Pokemon, items, level up moves, move tutors, and abilities are randomized.
+    -Perish Song is removed
+    -Mythical Pokemon experience is fixed (increased)
 
 ---
 
