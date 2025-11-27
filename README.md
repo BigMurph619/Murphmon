@@ -148,6 +148,7 @@ DuoMon is the "All-Doubles Battles" take on this challenge. It is playable on Fi
     <li>You must beat Misty before “Dig” Rocket.</li>
     <li>You may fight SS Anne trainers in any order.</li>
     <li>You must beat Lt. Surge before entering Rock Tunnel.</li>
+    <li>You must obtain the Silph Scope prior to entering Pokemon Tower.</li>
     <li>You must beat Erika before waking up Snorlax.</li>
     <li>You must beat Koga and the remainder of the game with your Safari Zone pivot.</li>
     <li>You must beat Sabrina before entering the Pokemon Mansion.</li>
